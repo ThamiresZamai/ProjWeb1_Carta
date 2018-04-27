@@ -1,0 +1,9 @@
+c:\users\thamires\source\repos\ProjWeb1\ProjWeb1\bin\ProjWeb1.dll.config
+c:\users\thamires\source\repos\ProjWeb1\ProjWeb1\bin\ProjWeb1.dll
+c:\users\thamires\source\repos\ProjWeb1\ProjWeb1\bin\ProjWeb1.pdb
+c:\users\thamires\source\repos\ProjWeb1\ProjWeb1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\thamires\source\repos\ProjWeb1\ProjWeb1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\thamires\source\repos\ProjWeb1\ProjWeb1\obj\Debug\ProjWeb1.csprojResolveAssemblyReference.cache
+c:\users\thamires\source\repos\ProjWeb1\ProjWeb1\obj\Debug\ProjWeb1.csproj.CoreCompileInputs.cache
+c:\users\thamires\source\repos\ProjWeb1\ProjWeb1\obj\Debug\ProjWeb1.dll
+c:\users\thamires\source\repos\ProjWeb1\ProjWeb1\obj\Debug\ProjWeb1.pdb
