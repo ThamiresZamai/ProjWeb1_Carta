@@ -7,3 +7,12 @@ c:\users\thamires\source\repos\ProjWeb1\ProjWeb1\obj\Debug\ProjWeb1.csprojResolv
 c:\users\thamires\source\repos\ProjWeb1\ProjWeb1\obj\Debug\ProjWeb1.csproj.CoreCompileInputs.cache
 c:\users\thamires\source\repos\ProjWeb1\ProjWeb1\obj\Debug\ProjWeb1.dll
 c:\users\thamires\source\repos\ProjWeb1\ProjWeb1\obj\Debug\ProjWeb1.pdb
+C:\Projetos.Net\ProjWeb1\ProjWeb1\bin\ProjWeb1.dll.config
+C:\Projetos.Net\ProjWeb1\ProjWeb1\bin\ProjWeb1.dll
+C:\Projetos.Net\ProjWeb1\ProjWeb1\bin\ProjWeb1.pdb
+C:\Projetos.Net\ProjWeb1\ProjWeb1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos.Net\ProjWeb1\ProjWeb1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos.Net\ProjWeb1\ProjWeb1\obj\Debug\ProjWeb1.csprojResolveAssemblyReference.cache
+C:\Projetos.Net\ProjWeb1\ProjWeb1\obj\Debug\ProjWeb1.csproj.CoreCompileInputs.cache
+C:\Projetos.Net\ProjWeb1\ProjWeb1\obj\Debug\ProjWeb1.dll
+C:\Projetos.Net\ProjWeb1\ProjWeb1\obj\Debug\ProjWeb1.pdb

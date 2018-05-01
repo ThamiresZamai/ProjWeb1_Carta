@@ -17,16 +17,16 @@ namespace ProjWeb1
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            lbldes.Text = "Eu, "+txtnome.Text+" portador do RG "+txtrg.Text+", CPF "+txtcpf.Text+
-                " adoro estudar "+txtling.Text+" porque é uma linguagem "+txtadj.Text+".";
+            lbldes.Text = "Eu, " + txtnome.Text + " portador do RG " + txtrg.Text + ", CPF " + txtcpf.Text +
+                " adoro estudar " + txtling.Text + " porque é uma linguagem " + txtadj.Text + ".";
 
-            lblcidade.Text = txtcidade.Text + ", " +txtdia.Text+", "+txtano.Text+".";
+            lblcidade.Text = txtcidade.Text + ", " + txtdia.Text + ", " + txtano.Text + ".";
 
-            lblidade.Text = "*Declaro ser "+txtmmidade.Text+" de idade.";
+            lblidade.Text = "*Declaro ser " + txtmmidade.Text + " de idade.";
 
 
 
-            string path = "C:\\Users\\Thamires\\Documents\\webC#\\carta.txt";
+            string path = "C:\\Projetos.Net\\webC#\\carta.txt";
 
             using (StreamWriter sw = File.CreateText(path))
             {
@@ -54,7 +54,14 @@ namespace ProjWeb1
 
         protected void btnListar_Click(object sender, EventArgs e)
         {
-            lblLista.Text = ;
+            string[] lines = System.IO.File.ReadAllLines(@"C:\\Projetos.Net\\webC#\\carta.txt");
+            string texto = string.Empty;
+
+            foreach (var line in lines)
+            {
+                texto += "\n" + (line);
+            }
+            lblListaImpressa.Text = texto;
         }
 
     }
